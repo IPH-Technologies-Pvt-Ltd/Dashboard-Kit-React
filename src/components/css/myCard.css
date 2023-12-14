@@ -1,0 +1,10 @@
+.my-card1{
+    border-radius: 7px;
+    margin-bottom: 10px;
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
+}
+.my-card2{
+    padding-top: 5px;
+    border-radius: 7px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 1px 4px;
+}

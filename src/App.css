@@ -1,0 +1,39 @@
+.btn1 {
+    border: none;
+    font-size: 13px;
+    height: 28px;
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
+  }
+  
+  .btn1 i {
+    font-size: 12px;
+  }
+  
+  .drop-down-1 {
+    border: none;
+    width: 100%;
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
+
+  }
+  
+  .input-search-1 {
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
+
+  }
+  
+  .input-search-1 input {
+    font-size: 13px;
+  }
+  
+  .input-search-1 span i {
+    font-size: 13px;
+  }
+  .dummy{
+    background-color:#212529
+  }
+  .custom-placeholder::placeholder {
+    color: white;
+  }
+
+  
+  

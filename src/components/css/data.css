@@ -1,0 +1,28 @@
+
+  
+  h4 {
+    margin: 2rem 0rem 1rem;
+  }
+  
+  .table-image {
+    td, th {
+      vertical-align: middle;
+    }
+  }
+  .table.table-hover tbody tr {
+    border: none;
+  }
+  
+  .table.table-hover thead th {
+    border: none;
+  }
+  
+  .table.table-hover {
+    border-collapse: collapse;
+    border-spacing: 0;
+  }
+  
+  .custom-control-label {
+    padding: 0;
+  }
+  

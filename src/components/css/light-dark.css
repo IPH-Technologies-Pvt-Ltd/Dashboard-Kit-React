@@ -1,0 +1,12 @@
+.light-mode {
+    color: #212529;
+    background-color: #fff
+  }
+  .dark-mode {
+    background: #212529;
+    color: #fff;
+    
+  }
+  .dark-mode a{
+    color: green;
+  }
