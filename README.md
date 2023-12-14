@@ -1,70 +1,65 @@
-# Getting Started with Create React App
+# Dashboard Kit React App with Bootstrap
+Dashboard Kit React with Bootstrap is a feature-rich and responsive admin dashboard template built with React. It integrates the powerful ApexCharts library for advanced data visualization and utilizes Bootstrap for enhanced styling and components. The template provides a flexible layout, supports dark mode/light mode, and offers various chart options.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Features
+- **ApexCharts Integration:** Utilize powerful and interactive charts for data visualization.
+- **Bootstrap Components:** Leverage Bootstrap components for consistent styling and UI elements.
+- **Dark Mode/Light Mode:** Toggle between different color themes for user preference.
+- **Customizable:** Easily customize layouts, styles, and components to fit your project.
+- **...** (Add any other key features of your dashboard)
 
-## Available Scripts
+## Table of Contents
+- [Getting Started](#getting-started)
+- [Prerequisites](#prerequisites)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Configuration](#configuration)
+- [Dark Mode/Light Mode](#dark-modelight-mode)
+- [Contributing](#contributing)
+- [License](#license)
+- [Video Demo](#video-demo)
 
-In the project directory, you can run:
+## Getting Started
+### Prerequisites
+Before you begin, ensure you have the following installed:
 
-### `npm start`
+- [Node.js](https://nodejs.org/)
+- [npm](https://www.npmjs.com/) (comes with Node.js)
+### Installation
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+1. Clone the repository:
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+   ```bash
+   git clone https://github.com/IPH-Technologies-Pvt-Ltd/Dashboard-Kit-React.git
+1. Change into the project directory:
+   cd Dashboard-Kit-React-
 
-### `npm test`
+2.Install dependencies:
+   npm install
+## Usage
+Start the development server:
+   npm start
+   Visit http://localhost:3000 in your browser to view the dashboard.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Certainly! Here's an extended version of the README.md file for your Dashboard-Kit-React project, now including the use of Bootstrap along with the react-apexcharts library and the dark mode/light mode feature:
 
-### `npm run build`
+## Configuration
+Chart Customization: Modify ApexCharts options in the respective components for your specific data visualization needs.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Layout and Styles: Adjust the layout and styles in the src/styles directory according to your project's design.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Bootstrap Components: Explore and utilize Bootstrap components in the src/components directory.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## Dark Mode/Light Mode
+Toggle between dark mode and light mode by clicking on the theme switcher provided in the UI.
+## Contributing
+Contributions are welcome! Feel free to open issues and pull requests.
+## License
+This project is licensed under the MIT License - see the LICENSE file for details.
 
-### `npm run eject`
+## Video Demo
+For a quick overview and demonstration, watch the video demo: 
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+https://github.com/IPH-Technologies-Pvt-Ltd/Dashboard-Kit-React/assets/133772531/c1628e97-989f-4c61-941b-e2c407294a43
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
